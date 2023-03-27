@@ -11,8 +11,11 @@ The application offers features such as news category display, news details, com
 The app includes these key features:
 
 Main Activity: Displays news categories, lists news items by category, and allows swiping between categories, while showing a progress spinner during data download.
+
 News Details Activity: Showcases news item details, including image, title, date, and text, with navigation options to return to the Main Activity or access the Comments Activity.
+
 Comments Activity: Displays a RecyclerView of comments with a progress indicator, and includes navigation options to return to the News Details Activity or proceed to the Post Comment Activity.
+
 Post Comment Activity: Allows users to input and post comments, displays a progress dialog during data upload, and offers a navigation option to return to the Comments Activity.
 
 # Technologies Used
